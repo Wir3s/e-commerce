@@ -19,7 +19,7 @@
   It can be used by running 'node server.js' from the terminal. Then use a program such as Insomnia to hit the routes with GET, POST, PUT and DELETE requests.
 
   
-  [Link to video of application in action] (https://drive.google.com/file/d/16Yrvr7YLWggJjO9jdbbyJ92ya90EpepO/view)
+  [Link to video of application in action](https://drive.google.com/file/d/16Yrvr7YLWggJjO9jdbbyJ92ya90EpepO/view)
 
 ## Contributing
   Any contribution suggestions are welcome.
