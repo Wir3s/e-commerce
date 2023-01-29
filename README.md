@@ -2,7 +2,7 @@
  [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 ## Description
-  An e-commerce back-end wtih seeded data that can be queried, added to, updated and deleted. 
+  An e-commerce back-end wtih seeded data that can be queried, added to, updated and deleted. Products are grouped into categories and associated with tags. Products, categories and tagged can be viewed all at once or individually by ID.
 
 ## Table of Contents
   [Installation](#installation)  
